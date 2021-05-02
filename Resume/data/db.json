@@ -1,0 +1,22 @@
+{
+    "projects": [
+      {
+        "title": "ACADEMIC PROJECTS",
+        "details": "Present: - Remote password security (B. tech)\n- Image uploader\n BLE peer to peer\nSolar charge controller (Diploma – final year project)",
+        "complete": false,
+        "id": 7
+      },
+      {
+        "title": "EXTRA CURRICULUM",
+        "details": "❖Volunteered in Swachh Bharat Abhiyan champ.\n❖Participated in Prayas state-level project competition held at SNDT, Premlila Vithaldas.\n❖Participated in React.js competition at Alien super brain.\n❖Volunteered in college sports events.\n",
+        "complete": false,
+        "id": 8
+      },
+      {
+        "title": "Hobbies",
+        "details": "Chess, hockey, cricket, Carrom",
+        "complete": false,
+        "id": 9
+      }
+    ]
+  }
